@@ -11,7 +11,7 @@
 	<groupId>com</groupId>
 	<artifactId>springboot-CURD-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-CURD-example</name>
+	<name>preparationToFly</name>
 	<description>springboot-CURD-example</description>
 	<properties>
 		<java.version>17</java.version>
